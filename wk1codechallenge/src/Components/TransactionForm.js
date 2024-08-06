@@ -33,7 +33,7 @@ function TransactionForm({ addTransaction }) {
     };
   return (
     <form onSubmit={handleSubmit}>
-        
+   
     </form>
   );
 }
